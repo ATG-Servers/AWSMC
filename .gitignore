@@ -1,5 +1,6 @@
 # Ignore large generated data
-world/
+world/*
+!world/datapacks/
 backups/
 logs/
 crash-reports/
