@@ -1,0 +1,10 @@
+# Ignore large generated data
+world/
+backups/
+logs/
+crash-reports/
+.fabric/
+
+# Ignore heavy executable jars (We keep the mod jars but ignore the server executables)
+*.jar
+!mods/*.jar
