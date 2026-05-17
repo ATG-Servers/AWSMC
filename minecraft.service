@@ -5,10 +5,10 @@ After=network.target
 [Service]
 Type=forking
 User=admin
-WorkingDirectory=/home/admin/AWSMC
+WorkingDirectory=/home/admin/fabric-server
 
 # We run the server inside a tmux session named "mc" so you can attach to it later
-ExecStart=/usr/bin/tmux new-session -d -s mc '/home/admin/AWSMC/start.sh'
+ExecStart=/usr/bin/tmux new-session -d -s mc '/home/admin/fabric-server/start.sh'
 
 # To stop the server gracefully, we send the "stop" command to the tmux session
 ExecStop=/usr/bin/tmux send-keys -t mc "stop" ENTER
