@@ -1,10 +1,10 @@
 {
 	// The chance a mineral is dropped when an overworld stone block is broken. By default 1/50.
 	// min: 0.0, max: 1.0
-	"extraMineralChanceOnOverworldStoneBreak": 0.02,
+	"extraMineralChanceOnOverworldStoneBreak": 0.05,
 	// The chance a mineral is dropped when a nether stone block is broken. By default 1/100.
 	// min: 0.0, max: 1.0
-	"extraMineralChanceOnNetherStoneBreak": 0.01,
+	"extraMineralChanceOnNetherStoneBreak": 0.03,
 	// If enabled, mining overworld stone blocks in the overworld has a chance to drop an overworld mineral. These consist of diamonds, gold nuggets, iron nuggets, lapis lazuli, redstone and emeralds.
 	"enableOverworldMinerals": true,
 	// If enabled, mining nether stone blocks in the nether has a chance to drop a nether mineral. These consist of quartz and gold nuggets.

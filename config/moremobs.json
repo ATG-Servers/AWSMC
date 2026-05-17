@@ -1,6 +1,6 @@
 {
   "enable_heads": "WORLD",
-  "enable_head_drops": "WORLD",
+  "enable_head_drops": "FALSE",
   "enable_additional_loot": "WORLD",
   "enable_additional_valuable_loot": "WORLD",
   "enable_upside_down_spiders": "WORLD",
