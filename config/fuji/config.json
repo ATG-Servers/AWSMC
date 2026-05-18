@@ -226,6 +226,9 @@
     "sit": {
       "enable": false
     },
+    "sign_editor": {
+      "enable": false
+    },
     "teleport_warmup": {
       "enable": false
     },
@@ -491,5 +494,5 @@
       "enable": false
     }
   },
-  "MOD_VERSION": "14.6.0"
+  "MOD_VERSION": "14.8.2"
 }
