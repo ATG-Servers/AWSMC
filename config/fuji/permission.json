@@ -1,6 +1,13 @@
 {
   "default_level_permission": {
     "commands": {
+      "afk": 0,
+      "chat.display.ender": 0,
+      "chat.display.inv": 0,
+      "chat.display.item": 0,
+      "chat.history.forget": 4,
+      "chat.style.reset": 0,
+      "chat.style.set.format": 0,
       "fuji": 4,
       "fuji.about": 4,
       "fuji.debug": 4,
@@ -19,6 +26,8 @@
       "fuji.inspect.server-commands": 4,
       "fuji.reload": 4,
       "fuji.user-guide": 4,
+      "is-afk?.player": 4,
+      "rtp.dimension": 0,
       "send-actionbar.player.rest": 4,
       "send-bossbar.player.totalMs.color.style.commandList.notifyMeOnComplete.stepType.title": 4,
       "send-broadcast.rest": 4,
