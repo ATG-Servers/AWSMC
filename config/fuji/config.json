@@ -86,13 +86,13 @@
       "enable": false
     },
     "tpa": {
-      "enable": false
+      "enable": true
     },
     "back": {
       "enable": false
     },
     "home": {
-      "enable": false
+      "enable": true
     },
     "pvp": {
       "enable": false
@@ -149,18 +149,18 @@
       }
     },
     "functional": {
-      "enable": false,
+      "enable": true,
       "workbench": {
-        "enable": false
+        "enable": true
       },
       "enchantment": {
         "enable": false
       },
       "grindstone": {
-        "enable": false
+        "enable": true
       },
       "stonecutter": {
-        "enable": false
+        "enable": true
       },
       "anvil": {
         "enable": false
@@ -179,7 +179,7 @@
       }
     },
     "economy": {
-      "enable": false
+      "enable": true
     },
     "system_message": {
       "enable": false
@@ -188,7 +188,7 @@
       "enable": false
     },
     "world": {
-      "enable": false,
+      "enable": true,
       "border": {
         "enable": true
       }
@@ -254,7 +254,7 @@
       "enable": false
     },
     "command_alias": {
-      "enable": false
+      "enable": true
     },
     "command_bundle": {
       "enable": false
