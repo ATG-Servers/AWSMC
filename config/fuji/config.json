@@ -47,7 +47,7 @@
       "enable": true
     },
     "chat": {
-      "enable": false,
+      "enable": true,
       "style": {
         "enable": true
       },
@@ -98,13 +98,13 @@
       "enable": false
     },
     "afk": {
-      "enable": false,
+      "enable": true,
       "effect": {
         "enable": true
       }
     },
     "rtp": {
-      "enable": false
+      "enable": true
     },
     "works": {
       "enable": false
