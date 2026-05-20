@@ -4,7 +4,7 @@
 # Add to crontab: */5 * * * * /home/admin/idle-shutdown.sh >> /var/log/idle-shutdown.log 2>&1
 
 IDLE_FILE="/tmp/minecraft_idle_count"
-MAX_IDLE_CHECKS=3 # 3 checks * 5 mins = 15 minutes
+MAX_IDLE_CHECKS=48 # 48 checks * 5 mins = 4 hours (240 minutes)
 
 # Check active connections on port 25565.
 # If players are connected, port 25565 will have ESTABLISHED connections.
